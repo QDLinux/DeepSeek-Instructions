@@ -15,7 +15,7 @@ DeepSeek 是一款基于人工智能技术的多功能工具，旨在帮助用�
 
 <h4>登录：</h4>
 
-访问 DeepSeek 官网。
+访问 [DeepSeek 官网](https://www.deepseek.com)。>https://www.deepseek.com
 
 点击“登录”按钮。
 
